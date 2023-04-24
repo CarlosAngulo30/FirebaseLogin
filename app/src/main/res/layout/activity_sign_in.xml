@@ -57,8 +57,6 @@
             android:drawablePadding="8dp"
             />
 
-
-
         <TextView
             android:layout_marginTop="18dp"
             android:layout_width="wrap_content"
@@ -75,7 +73,6 @@
             android:text="@string/login"
             android:layout_marginBottom="140dp"
             android:background="@drawable/ic_buttom"
-
             />
 
         <LinearLayout
@@ -97,7 +94,7 @@
                 android:text="@string/signup"
                 android:textSize="24sp"
                 android:layout_marginLeft="16dp"
-                android:textColor="#ff9900"
+                android:textColor="@color/mustard"
                 />
 
         </LinearLayout>

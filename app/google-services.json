@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99464486479",
+    "project_id": "fir-login-c0fc3",
+    "storage_bucket": "fir-login-c0fc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99464486479:android:d1fb36977d0fd9bc86943a",
+        "android_client_info": {
+          "package_name": "angulo.carlos.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99464486479-ipud4j8un6h19eoiorvfvf8mivb6jt1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXHOLqiOZ_Virc_GCQz_fZ4TRzbrKuaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99464486479-ipud4j8un6h19eoiorvfvf8mivb6jt1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
